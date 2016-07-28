@@ -5,16 +5,6 @@
         1,
         null
       ],
-      "/Users/ariadyneoliveira/Documents/Prj_Desenvolvimento/Ruby/CodeCampusFerias/emprego-ja/app/controllers/home_controller.rb": [
-        1,
-        null,
-        null
-      ],
-      "/Users/ariadyneoliveira/Documents/Prj_Desenvolvimento/Ruby/CodeCampusFerias/emprego-ja/app/controllers/application_controller.rb": [
-        1,
-        1,
-        null
-      ],
       "/Users/ariadyneoliveira/Documents/Prj_Desenvolvimento/Ruby/CodeCampusFerias/emprego-ja/app/channels/application_cable/channel.rb": [
         0,
         0,
@@ -23,6 +13,16 @@
       ],
       "/Users/ariadyneoliveira/Documents/Prj_Desenvolvimento/Ruby/CodeCampusFerias/emprego-ja/app/channels/application_cable/connection.rb": [
         0,
+        0,
+        0,
+        0
+      ],
+      "/Users/ariadyneoliveira/Documents/Prj_Desenvolvimento/Ruby/CodeCampusFerias/emprego-ja/app/controllers/application_controller.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/ariadyneoliveira/Documents/Prj_Desenvolvimento/Ruby/CodeCampusFerias/emprego-ja/app/controllers/home_controller.rb": [
         0,
         0,
         0
@@ -43,6 +43,6 @@
         0
       ]
     },
-    "timestamp": 1468006850
+    "timestamp": 1468959867
   }
 }
